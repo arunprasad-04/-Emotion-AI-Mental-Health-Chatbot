@@ -24,15 +24,7 @@ This project combines **Facial Emotion Recognition** and an **AI-powered Chatbot
 
 ---
 
-## 💻 Screenshots
 
-### 1️⃣ Emotion Detection  
-![Emotion Detection]()
-
-### 2️⃣ Chatbot Interaction  
-![Chatbot Interface]()
-
----
 
 ## 🚀 How to Run
 
