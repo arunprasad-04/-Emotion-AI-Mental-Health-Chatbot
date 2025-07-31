@@ -35,6 +35,7 @@ fallback_responses = {
         "How about some fun music to brighten your mood? 🎶"
     ]
 }
+#functions
 
 
 def speak_response(text):
