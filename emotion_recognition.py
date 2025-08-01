@@ -4,7 +4,7 @@ import mediapipe as mp
 from keras.models import load_model
 from emotion_storage import save_emotion_to_json
 
-# Load pre-trained face detector
+# Load pre-trained face detectors
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
 
 # Load the trained emotion recognition model
